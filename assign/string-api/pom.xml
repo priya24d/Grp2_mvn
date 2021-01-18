@@ -1,0 +1,13 @@
+<project>
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>com.mycompany.app</groupId>
+        <artifactId>assign</artifactId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+    <groupId>com.mycompany.string-api</groupId>
+    <name>string-api</name>
+    <packaging>jar</packaging>
+    <artifactId>string-api</artifactId>
+    <version>1.0-SNAPSHOT</version>
+</project>
