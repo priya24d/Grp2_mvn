@@ -1,7 +1,7 @@
 /target 
 /assign.iml
 /.idea
-/string-api/target
-/string-impl/target
-/string-api/string-api.iml
-/string-impl/string-impl.iml
+**/string-api/target
+**/string-impl/target
+**/string-api/string-api.iml
+**/string-impl/string-impl.iml
